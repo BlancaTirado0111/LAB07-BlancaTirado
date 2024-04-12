@@ -1,5 +1,5 @@
 //codigo de la 1ra parte
-/*import './App.css';
+import './App.css';
 import { Button } from './components/Button';
 
 function App() {
@@ -13,11 +13,11 @@ function App() {
   );
 }
 
-export default App;*/
+export default App;
 
 //codigo de la 2da parte
 
-import './App.css';
+/*import './App.css';
 import { List } from './components/List';
 import { WapperList } from './components/WapperList';
 
@@ -32,3 +32,4 @@ function App() {
 }
 
 export default App;
+*/
